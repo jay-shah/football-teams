@@ -1,0 +1,67 @@
+{
+    "1": {
+        "name": "Jay",
+        "attack": "6",
+        "defence": "4"
+    },
+    "2": {
+        "name": "Shiva",
+        "attack": "6",
+        "defence": "4"
+    },
+    "3": {
+        "name": "Vivek",
+        "attack": "6",
+        "defence": "4"
+    },
+    "4": {
+        "name": "AJ",
+        "attack": "6",
+        "defence": "4"
+    },
+    "5": {
+        "name": "Priyesh",
+        "attack": "6",
+        "defence": "4"
+    },
+    "6": {
+        "name": "Khushal",
+        "attack": "6",
+        "defence": "4"
+    },
+    "7": {
+        "name": "Gui",
+        "attack": "6",
+        "defence": "4"
+    },
+    "8": {
+        "name": "Kavi",
+        "attack": "6",
+        "defence": "4"
+    },
+    "9": {
+        "name": "Nofil",
+        "attack": "6",
+        "defence": "4"
+    },
+    "10": {
+        "name": "Reekhil",
+        "attack": "6",
+        "defence": "4"
+    },
+    "11": {
+        "name": "Mayur",
+        "attack": "6",
+        "defence": "4"
+    },
+    "12": {
+        "name": "Reuben",
+        "attack": "6",
+        "defence": "4"
+    },
+    "13": {
+        "name": "Zeeqs",
+        "attack": "6",
+        "defence": "4"
+    }
+}
