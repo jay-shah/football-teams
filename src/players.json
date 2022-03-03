@@ -63,5 +63,15 @@
         "name": "Zeeqs",
         "attack": "6",
         "defence": "4"
+    },
+    "14": {
+        "name": "Deven",
+        "attack": "6",
+        "defence": "4"
+    },
+    "15": {
+        "name": "Kyle",
+        "attack": "6",
+        "defence": "4"
     }
 }
